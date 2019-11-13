@@ -10,4 +10,4 @@
 
 **微信**：
 
-<img src="E:\hexo\public\img\WeChat.jpg" alt="WeChat" style="zoom:50%;" />
+<img src="\img\WeChat.jpg" alt="WeChat" style="zoom:50%;" />
