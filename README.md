@@ -8,6 +8,3 @@
 
 **QQ**:*820193452*
 
-**微信**：
-
-<img src="\img\WeChat.jpg" alt="WeChat" style="zoom:50%;" />
