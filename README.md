@@ -8,4 +8,4 @@
 
 微信：
 
-![](img\wechat.png)
+![](https://github.com/NewGK/hello-world/blob/master/img/wechat.png?raw=true)
